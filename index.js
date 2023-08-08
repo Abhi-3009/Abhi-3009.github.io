@@ -31,8 +31,8 @@ let displayentries=()=>{
             <th scope="col">Name</th>
             <th scope="col">Email</th>
             <th scope="col">Password</th>
-            <th scope="col">DOB</th>
-            <th scope="col">TnC Accepted?</th>
+            <th scope="col">Dob</th>
+            <th scope="col">Accepted terms?</th>
         </tr>
         ${table} 
     </table>`;
